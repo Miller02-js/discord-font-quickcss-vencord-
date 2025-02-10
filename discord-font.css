@@ -1,0 +1,10 @@
+/* Change Discord Font to Darumadrop One */
+@import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap');
+
+:root {
+    --custom-font: "Darumadrop One", sans-serif;
+}
+
+* {
+    font-family: var(--custom-font) !important;
+}
